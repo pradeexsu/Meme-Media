@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MemeShare</string>
+    <string name="error_Response">That didn\'t work!</string>
+</resources>
